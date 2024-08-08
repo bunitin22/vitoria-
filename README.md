@@ -1,2 +1,2 @@
 # vitoria-
-meu primeiro repositorio
+meu primeiro repositori
